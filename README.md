@@ -1,5 +1,7 @@
 # 🌦️ **Weather Derivatives Project**
 
+<img width="630" height="420" alt="image" src="https://github.com/user-attachments/assets/3ad98f93-a7a9-487d-9c8d-aafa9afb4c3b" />
+
 
 ## 🎯 **Purpose of the Project**
 
